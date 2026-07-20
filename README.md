@@ -22,7 +22,7 @@
 - 🏫 **Uttaranchal University**
 - 🌱 Currently learning **Spring Boot, React, and System Design**
 - 💬 Ask me about **Java, Spring Boot, React, SQL, REST APIs**
-- 📫 Email: **yourmail@gmail.com**
+- 📫 Email: **adityasoni7484@gmail.com**
 - ⚡ Fun Fact: **I enjoy solving coding challenges and building full-stack applications.**
 
 ---
@@ -83,15 +83,14 @@
 
 | Degree | Institute | Board | Year |
 |----------|-----------|--------|------|
-| **B.Tech (Computer Science & Engineering)** | **Uttaranchal University** | University | Present |
-| **Class XII** | CBSE School | CBSE | **2022–2024** |
-| **Class X** | CBSE School | CBSE | **2022** |
+| **B.Tech (Computer Science & Engineering)** | **Uttaranchal University** | University | 2025-2029 |
+| **Class XII** | Sinha Model High School | CBSE | **2022–2024** |
+| **Class X** | Cambridge Public School | CBSE | **2022** |
 
 ---
 
 # 🎯 Current Focus
 
-```yaml
 Learning:
   - Spring Boot
   - React
@@ -122,15 +121,15 @@ Open_To:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/linkedin.com/in/aditya-kumar-1890b6252">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Adityak61">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:adityasoni7484@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
