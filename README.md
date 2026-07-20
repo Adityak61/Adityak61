@@ -116,21 +116,22 @@ Open_To:
 ```
 
 ---
+---
 
-# 📬 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/linkedin.com/in/aditya-kumar-1890b6252">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aditya-kumar-1890b6252/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Adityak61">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Adityak61" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Adityak61-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:adityasoni7484@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -139,13 +140,18 @@ Open_To:
 
 <div align="center">
 
-### 💡 Quote of the Day
+## 💡 Quote of the Day
 
-> **"Code. Learn. Build. Repeat."**
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+✨ Thanks for visiting my profile!  
+⭐ If you like my work, don't forget to **star my repositories** and **follow me on GitHub**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 </div>
+
+
+
+
 
