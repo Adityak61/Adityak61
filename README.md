@@ -18,11 +18,11 @@
 
 👨‍💻 Passionate Software Developer who enjoys building scalable applications and solving real-world problems.
 
-- 🎓 Education: **Add Your Degree Here**
+- 🎓 Education: **B.tech CSE**
 - 💼 Currently working on **Your Current Project**
 - 🌱 Learning **Your Current Learning**
 - 💬 Ask me about **Java, Spring Boot, React, SQL...**
-- 📫 Email: **yourmail@gmail.com**
+- 📫 Email: **adityasoni7484@gmail.com**
 - ⚡ Fun Fact: **Write Something Interesting**
 
 ---
@@ -160,20 +160,19 @@ Duration
 
 # 📜 Certifications
 
-- Microsoft Certified: ____________
-- Oracle Certified: ____________
-- HackerRank: ____________
-- Coursera: ____________
-- Udemy: ____________
+- Microsoft Certified: SQL AI Developer Associate
+- Oracle Certified: Agentic AI Foundation Associate
+- Deloitte: Data Analytics Job Simulation
+- IBM: Artificial Intelligence Fundamentals
 
 ---
 
 # 📚 Education
 
-| Degree | Institute | Year |
+| B.tech | Uttaranchal University | 2025-2029 |
 |----------|------------|------|
-| Degree Name | College Name | 20XX-20XX |
-| School | School Name | 20XX |
+| 12th | CBSE | 2022-2024 |
+| 10th | CBSE | 2022 |
 
 ---
 
@@ -205,9 +204,9 @@ Duration
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityak61&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityak61&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -215,7 +214,7 @@ Duration
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak61&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
