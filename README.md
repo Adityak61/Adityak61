@@ -77,7 +77,7 @@ I enjoy transforming ideas into practical software solutions through analytical 
 
 ---
 
-# 🧠 Core Computer Science
+# 🧠 Specialization In AI/ML
 
 <p align="center">
 
