@@ -156,11 +156,11 @@ Developed multiple Java-based applications while strengthening problem-solving a
 
 # 📜 Certifications
 
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+* Microsoft Certified: SQL AI Developer Associate
+* Oracle Certified: Agentic AI Certified Foundations Associate
+* IBM: Artificial Intelligence Fundamentals
+* Deloitte: Data Analytics Job Simulation
 
-<img src="https://img.shields.io/badge/Java-Programming-A855F7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 ---
 
