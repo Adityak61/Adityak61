@@ -22,8 +22,6 @@
 
 <img src="https://img.shields.io/badge/Uttaranchal-University-6366F1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
 </p>
 
 ---
