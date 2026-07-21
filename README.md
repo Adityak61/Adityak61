@@ -54,7 +54,7 @@ I enjoy transforming ideas into practical software solutions through analytical 
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,mysql,html,css" />
 </p>
 
 ## Frameworks & Technologies
@@ -236,10 +236,9 @@ Developed multiple Java-based applications while strengthening problem-solving a
 
 ```yaml
 Learning:
-  - Spring Boot
+  - Data Structures & Algorithms
   - React
   - System Design
-  - Data Structures & Algorithms
 
 Building:
   - Full Stack Applications
